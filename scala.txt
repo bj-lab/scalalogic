@@ -2,9 +2,10 @@ welcome to scala world
 how to learn scala .
 
 
-
-
 comparingly know about java and scala
+
+
+final text
 
 
 
